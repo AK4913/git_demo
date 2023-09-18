@@ -1,0 +1,11 @@
+this is my demo 1 file just created by command prompt
+
+the command i worked on:
+
+dir:- to see what is inside the directory
+
+cd:- to change the directory. (your current possition)
+
+cls:- to clear the page. (erase)
+
+mkdir:- to make a new directory.
