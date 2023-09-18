@@ -1,0 +1,12 @@
+continue of list one
+
+>git add <file name> (list2.txt) to add the file to the stageing
+
+>git status (to check the status, will show if there is any file to commit will be in red color and if its staged the file will be in green color.
+
+>git commit --m "commit massage" to commit file form stageing to local reposetory
+
+>git push -u origin master
+
+
+

@@ -1,0 +1,18 @@
+list of thing i did:
+
+i leared how to creat a local reposatory
+
+>git inti
+
+>type nul> <File name>.type (list.txt)
+
+>start (list.txt) to open the file
+
+Ctrl+S to save the file changes
+
+Ctrl+W to close the file
+
+
+
+
+
