@@ -1,0 +1,9 @@
+I am still pracatice
+
+I learned to login from command prompt to my GitHup page
+
+I used git config --global user.name "User name"
+
+>git config --global user.email "Email address"
+
+>git config --global user.password "enter token"
